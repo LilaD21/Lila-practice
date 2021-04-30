@@ -1,2 +1,11 @@
 
-<link href="style.css" type="text/css" rel="stylesheet" />
+body{
+	background-color:#D7BDE2;
+}
+h1{
+	font-size:30px;
+	text-align: center;
+}
+li {
+	color:34495E;
+}
